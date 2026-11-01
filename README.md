@@ -1,5 +1,7 @@
 # PROJECT ZERO — Official Website
 
+> **Current public-preview status (reviewed 1 November 2026):** The landing page is reachable at https://github-repository-review.vercel.app/. This confirms the static page is published; it does **not** confirm that email signup, confirmation email delivery, database writes, or unsubscribe work. The repository contains Cloudflare Pages Functions and a placeholder D1 database ID, so the Vercel preview and Cloudflare-oriented backend still need an explicitly configured and tested integration.
+
 A responsive, cinematic landing page for the PROJECT ZERO game, with:
 - Story, world, gameplay, Pixel, and Sanctuary sections
 - Signup form with explicit consent and honeypot field
